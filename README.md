@@ -2,11 +2,11 @@
 
 A hands-on repository focused on **data sampling, cleaning, and tokenization strategies** for Large Language Models (LLMs).
 
-This project explores how different preprocessing and encoding techniques impact text representation before feeding data into transformer-based architectures.
+This work explores how different preprocessing and encoding techniques impact text representation before feeding data into transformer-based architectures.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Before training any LLM, raw text must go through several preparation steps.
 This repository implements and compares these steps in a modular and reproducible way.
@@ -19,7 +19,7 @@ The goal is to:
 
 ---
 
-## 🧩 General Pipeline
+##  General Pipeline
 
 The workflow followed in this repository:
 

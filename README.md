@@ -137,4 +137,4 @@ This repository focuses **only on data preparation and tokenization**, not on mo
 
 Give it a star — it helps others discover the project!
 
-### I Amirtha Ganesh R poured my sweet and soul into these work.
+#### by Amirtha Ganesh R (one step towards making ai feasible to all)

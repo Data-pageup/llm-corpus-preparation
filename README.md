@@ -41,7 +41,7 @@ Text → Tokens → Token IDs
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 ### 1. Cleaning
 
@@ -66,7 +66,7 @@ Basic preprocessing applied to raw text:
 
 ---
 
-## 🔤 Tokenization / Encoding Methods
+##  Tokenization / Encoding Methods
 
 This repository focuses on **subword tokenization techniques**, which balance vocabulary size and representation power.
 
@@ -110,7 +110,7 @@ This repo enables comparison across:
 * Different cleaning strategies
 * Vocabulary size vs sequence length trade-offs
 
-Potential evaluation metrics:
+Evaluation metrics:
 
 * Token distribution
 * Vocabulary efficiency
@@ -120,7 +120,7 @@ Potential evaluation metrics:
 ---
 
 
-## 🤝 Contributions
+##  Contributions
 
 Feel free to fork, experiment, and improve the pipeline.
 This project is designed to be modular and extensible.
@@ -136,3 +136,5 @@ This repository focuses **only on data preparation and tokenization**, not on mo
 ## star If you find this useful
 
 Give it a star — it helps others discover the project!
+
+### I Amirtha Ganesh R poured my sweet and soul into these work.

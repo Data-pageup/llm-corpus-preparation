@@ -84,48 +84,6 @@ This repository focuses on **subword tokenization techniques**, which balance vo
 * Similar to BPE but based on likelihood
 * Optimized for probabilistic token selection
 
----
-
-### 3. Unigram Language Model
-
-* Used in SentencePiece
-* Starts with a large vocabulary and removes tokens based on probability
-* More flexible and probabilistic than BPE
-
----
-
-### 4. Byte-Level BPE
-
-* Variant of BPE operating on byte sequences
-* Handles any input text (including emojis and rare symbols)
-* Used in modern GPT models
-
----
-
-## Experimentation Goals
-
-This repo enables comparison across:
-
-* Different tokenizers (BPE vs WordPiece vs Unigram)
-* Different cleaning strategies
-* Vocabulary size vs sequence length trade-offs
-
-Evaluation metrics:
-
-* Token distribution
-* Vocabulary efficiency
-* Average sequence length
-* Coverage of rare words
-
----
-
-
-## Contributions
-
-Feel free to fork, experiment, and improve the pipeline.
-This project is designed to be modular and extensible.
-
----
 
 ## Note
 

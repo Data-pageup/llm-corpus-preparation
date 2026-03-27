@@ -13,6 +13,8 @@ This repository implements and compares these steps in a modular and reproducibl
 
 The goal is to:
 
+in this we will 
+
 * Understand **data preprocessing pipelines**
 * Experiment with **different tokenization methods**
 * Analyze how encoding choices affect downstream modeling

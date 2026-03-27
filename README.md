@@ -28,7 +28,6 @@ Raw Text
    ↓
 Data Cleaning
    ↓
-Normalization
    ↓
 Data Sampling / Filtering
    ↓
@@ -85,13 +84,7 @@ This repository focuses on **subword tokenization techniques**, which balance vo
 * Optimized for probabilistic token selection
 
 
-## Note
-
-This repository focuses **only on data preparation and tokenization**, not on model training.
-
----
-
-## star If you find this useful
+## 
 
 Give it a star — it helps others discover the project!
 

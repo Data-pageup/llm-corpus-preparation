@@ -4,5 +4,10 @@ A hands-on repository focused on **data sampling, cleaning, and tokenization str
 
 ### so here we go with this flow. 
 
-text data. -> little bit cleaning( by removing unwanted characters) -> then using byte pair encoding -> token embeddings  -> positional embeddings -> input embeddings ( token embedding + positional embedding)
+First method :
+text data. -> little bit cleaning( by removing unwanted characters) -> then using byte pair encoding -> token embeddings ( by using neural net to optimise the weights ) -> positional embeddings ( same as token embeddings) -> input embeddings ( token embedding + positional embedding)
+
+Second method :
+
+text data -> cleaning -> using bert/ word2vec  tokenizer for token embeddings -> positional embeddings -> input - output pair .
 

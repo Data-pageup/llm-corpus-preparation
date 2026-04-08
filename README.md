@@ -11,3 +11,5 @@ Second method :
 
 text data -> cleaning -> using bert/ word2vec  tokenizer for token embeddings -> positional embeddings -> input - output pair .
 
+we will be training with word 2 vec and also bert transformer
+
